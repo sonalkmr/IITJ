@@ -1,0 +1,3 @@
+Bots: A, B, C
+Slots: Slot1, Slot2, Slot3, Slot4
+Unary: Slot4 != C
